@@ -3,11 +3,10 @@ import logo from "./logo.svg";
 import "./App.css";
 
 //테스트를 위한 주석달기
-
+//테스트 2
 function App() {
   return (
     <div className="App">
-      {/*업로드 */}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
